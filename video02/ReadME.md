@@ -12,7 +12,9 @@
   
   <p dir=rtl>
   ۱- 
-  در پوشه مثال‌ها، مثال مربوط به پردازنده 
+  در پوشه 
+  <a href="https://github.com/Sajed68/IUT-DSPLAB2020/tree/master/video02/examples/6678-exampl2"> examples </a>
+  ، مثال مربوط به پردازنده 
  ۶۶۷۸ 
   اگر فرکانس سیگنال کسینوس را برابر 
   ۶۵ 
