@@ -37,3 +37,10 @@
 <p dir=rtl>
 لطفا به سوالات قرار گرفته در آن صفحه پاسخ دهید.
 </p>
+
+
+  
+------------------------------
+
+
+[![CC-BY-NC-ND](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
