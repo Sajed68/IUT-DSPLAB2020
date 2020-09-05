@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configurations XML_version="1.2" id="configurations_0">
+    <configuration XML_version="1.2" id="configuration_0">
+        <instance XML_version="1.2" desc="Texas Instruments Simulator" href="connections/tisim_connection.xml" id="Texas Instruments Simulator" xml="tisim_connection.xml" xmlpath="connections"/>
+        <connection XML_version="1.2" id="Texas Instruments Simulator">
+            <instance XML_version="1.2" href="drivers/tisim_isa_c55x_ca_unsup.xml" id="drivers" xml="tisim_isa_c55x_ca_unsup.xml" xmlpath="drivers"/>
+            <platform XML_version="1.2" id="platform_0">
+                <instance XML_version="1.2" desc="DSK5509A" href="boards/dsk5509a.xml" id="DSK5509A" xml="dsk5509a.xml" xmlpath="boards"/>
+            </platform>
+        </connection>
+    </configuration>
+</configurations>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configurations XML_version="1.2" id="configurations_0">
+
+    
+
+    
+<instance XML_version="1.2" desc="C55xx Rev3.0 CPU Functional Simulator" href="configurations/tisim_c55x30_pv.xml" id="C55xx Rev3.0 CPU Functional Simulator" xml="tisim_c55x30_pv.xml" xmlpath="configurations"/>
+    <configuration XML_version="1.2" description="Simulates the C55x Rev3.0 core in a bit accurate (functional) manner, does not model the pipeline effects. Supports a timer and a flat memory system. No other peripherals are modeled.&#13;This configuration is faster than the corresponding cycle accurate configuration, suitable for core level algorithm development, but does not provide cycle accuracy." id="C55xx Rev3.0 CPU Functional Simulator">
+        <connection XML_version="1.2" desc="C55xx Rev3.0 CPU Functional Simulator_0" id="C55xx Rev3.0 CPU Functional Simulator"/>
+    </configuration>
+</configurations>
