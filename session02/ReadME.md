@@ -13,7 +13,7 @@
   <p dir=rtl>
   ۱- 
   در پوشه 
-  <a href="https://github.com/Sajed68/IUT-DSPLAB2020/tree/master/video02/examples/6678-exampl2"> examples </a>
+  <a href="https://github.com/Sajed68/IUT-DSPLAB2020/tree/master/session02/examples/6678-exampl2"> examples </a>
   ، مثال مربوط به پردازنده 
  ۶۶۷۸ 
   اگر فرکانس سیگنال کسینوس را برابر 
