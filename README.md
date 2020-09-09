@@ -30,7 +30,7 @@
   CCS 
  نیز استفاده شده‌اند.
   کد مثال در
-  <a href="https://github.com/Sajed68/IUT-DSPLAB2020/tree/master/video02"> این صفحه </a>
+  <a href="https://github.com/Sajed68/IUT-DSPLAB2020/tree/master/session02"> این صفحه </a>
    قرار دارد.
 </p>
 
